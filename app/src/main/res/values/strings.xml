@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IntentsChallenge</string>
+    <string name="passage_1">Passage 1</string>
+    <string name="passage_2">Passage 2</string>
+    <string name="passage_3">Passage 3</string>
+
+    <string name="one">You have selected the first passage. Congratulations. </string>
+    <string name="two">This is the second passage. Wow</string>
+    <string name="three">The third passage is what this is. Incredible</string>
+</resources>
